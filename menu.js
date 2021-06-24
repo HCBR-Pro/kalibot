@@ -24,7 +24,6 @@ return `
 ┃ ${p}delete
 ┃ ${p}ajuda
 ┃ ${p}help
-┃ ${p}oficialcriador
 ┃ ${p}comandos
 ┃ ${p}menulite
 ┃ ${p}menu
